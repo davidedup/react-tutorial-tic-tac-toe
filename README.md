@@ -1,6 +1,6 @@
 Jogo da velha feito em react com objetivo de aprender a tecnologia. Criado seguindo o tutorial disponível em: https://reactjs.org/tutorial/tutorial.html. 
 
-Para rodar localmente basta instalar as dependias dos react 
+Para rodar localmente basta instalar as dependências dos react 
 
 -> npm install -g create-react-app 
 
